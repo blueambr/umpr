@@ -1,0 +1,693 @@
+{
+  "meta": {
+    "statusCode": 200,
+    "redirectUrl": null,
+    "path": "-1,1063,1064",
+    "template": "frontPage",
+    "culture": { "lang": "no" }
+  },
+  "seo": {
+    "title": "Adamo",
+    "description": "Adamo desc",
+    "keywords": "Adamo keywords",
+    "index": false,
+    "follow": false
+  },
+  "content": {
+    "content": {
+      "gridContent": {
+        "rows": [
+          {
+            "bottomSeparator": true,
+            "config": null,
+            "editors": [
+              {
+                "alias": "dynamicArticlesRow",
+                "column": 12,
+                "viewModel": {
+                  "articles": [
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "Prueba para trabajar con la API de fake Umbraco",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-1.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-1.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-1"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "bottomSeparator": false,
+            "config": null,
+            "editors": [
+              {
+                "alias": "dynamicArticlesRow",
+                "column": 12,
+                "viewModel": {
+                  "articles": [
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "LANG, VELDIG LANG TITTEL SOM GÅR OVER TO LINJER, NEI KANSKJE TRE!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-2.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-2.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-2"
+                    },
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "PÅ’N IGJEN!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-3.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-3.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-3"
+                    }
+                  ],
+                  "bottomSeparator": true
+                }
+              }
+            ]
+          },
+          {
+            "customClass": "dark-bg-title",
+            "config": null,
+            "editors": [
+              {
+                "alias": "rte",
+                "column": 12,
+                "viewModel": {
+                  "text": "<h3>Meld deg på Vinduets nyhetsbrev!</h3>"
+                }
+              }
+            ]
+          },
+          {
+            "bottomSeparator": true,
+            "config": null,
+            "editors": [
+              {
+                "alias": "dynamicArticlesRow",
+                "column": 12,
+                "viewModel": {
+                  "articles": [
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "LANG, VELDIG LANG TITTEL SOM GÅR OVER TO LINJER, NEI KANSKJE TRE!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-2.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-2.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-2"
+                    },
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "INTERESSANT BOK FRA THELLE.",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-3.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-3.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-3"
+                    },
+                    {
+                      "introduction": "Prosa. Av Kåre Bulie",
+                      "title": "ABSURDE BIBLIOTEKSBIND",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-4.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-4.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-4"
+                    },
+                    {
+                      "introduction": "Debatt. Av Kåre Bulie",
+                      "title": "PÅ’N IGJEN!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-5.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-5.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-5"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "bottomSeparator": true,
+            "config": null,
+            "editors": [
+              {
+                "alias": "dynamicArticlesRow",
+                "column": 12,
+                "viewModel": {
+                  "articles": [
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "PÅ’N IGJEN!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-1.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-1.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-1"
+                    }
+                  ],
+                  "textOnlyVariant": true
+                }
+              }
+            ]
+          },
+          {
+            "bottomSeparator": true,
+            "config": null,
+            "editors": [
+              {
+                "alias": "dynamicArticlesRow",
+                "column": 12,
+                "viewModel": {
+                  "articles": [
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "LANG, VELDIG LANG TITTEL SOM GÅR OVER TO LINJER, NEI KANSKJE TRE!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-2.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-2.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-2"
+                    },
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "PÅ’N IGJEN!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-3.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-3.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-3"
+                    }
+                  ],
+                  "textOnlyVariant": true
+                }
+              }
+            ]
+          },
+          {
+            "customClass": "row-title",
+            "config": null,
+            "editors": [
+              {
+                "alias": "rte",
+                "column": 12,
+                "viewModel": {
+                  "text": "<h3>KRITIKK</h3>"
+                }
+              }
+            ]
+          },
+          {
+            "bottomSeparator": true,
+            "config": null,
+            "editors": [
+              {
+                "alias": "kritikkRow",
+                "column": 12,
+                "viewModel": {
+                  "articles": [
+                    {
+                      "introduction": "Kritikk. Av Kåre Bulie",
+                      "title": "LANG, VELDIG LANG TITTEL SOM GÅR OVER TO LINJER, NEI KANSKJE TRE!",
+                      "image": {
+                        "path": "/img/kritikk-demo-1.jpg",
+                        "altText": "Kritikk. Av Kåre Bulie",
+                        "title": "Kritikk. Av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/kritikk-demo-1.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/kritikk-demo-1"
+                    },
+                    {
+                      "introduction": "Kritikk. Av Kåre Bulie",
+                      "title": "MANGELFULL OPPFØLGER AV AMBJØRNSEN",
+                      "image": {
+                        "path": "/img/kritikk-demo-2.jpg",
+                        "altText": "Kritikk. Av Kåre Bulie",
+                        "title": "Kritikk. Av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/kritikk-demo-2.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/kritikk-demo-2"
+                    },
+                    {
+                      "introduction": "Kritikk. Av Kåre Bulie",
+                      "title": "PÅ’N IGJEN!",
+                      "image": {
+                        "path": "/img/kritikk-demo-3.jpg",
+                        "altText": "Kritikk. Av Kåre Bulie",
+                        "title": "Kritikk. Av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/kritikk-demo-3.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/kritikk-demo-3"
+                    },
+                    {
+                      "introduction": "Kritikk. Av Kåre Bulie",
+                      "title": "LANG, VELDIG LANG TITTEL SOM GÅR OVER TO LINJER, NEI KANSKJE TRE!",
+                      "image": {
+                        "path": "/img/kritikk-demo-4.jpg",
+                        "altText": "Kritikk. Av Kåre Bulie",
+                        "title": "Kritikk. Av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/kritikk-demo-4.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/kritikk-demo-4"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "bottomSeparator": true,
+            "config": null,
+            "editors": [
+              {
+                "alias": "dynamicArticlesRow",
+                "column": 12,
+                "viewModel": {
+                  "articles": [
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "LANG, VELDIG LANG TITTEL SOM GÅR OVER TO LINJER, NEI KANSKJE TRE!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-2.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-2.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-2"
+                    },
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "PÅ’N IGJEN!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-3.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-3.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-3"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "bottomSeparator": true,
+            "config": null,
+            "editors": [
+              {
+                "alias": "dynamicArticlesRow",
+                "column": 12,
+                "viewModel": {
+                  "articles": [
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "LANG, VELDIG LANG TITTEL SOM GÅR OVER TO LINJER, NEI KANSKJE TRE!",
+                      "link": "/article-demo-1"
+                    },
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "PÅ’N IGJEN!",
+                      "link": "/article-demo-2"
+                    },
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "PÅ’N IGJEN!",
+                      "link": "/article-demo-3"
+                    },
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "PÅ’N IGJEN!",
+                      "link": "/article-demo-4"
+                    }
+                  ],
+                  "textOnlyVariant": true
+                }
+              }
+            ]
+          },
+          {
+            "bottomSeparator": true,
+            "config": null,
+            "editors": [
+              {
+                "alias": "dynamicArticlesRow",
+                "column": 12,
+                "viewModel": {
+                  "articles": [
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "LANG, VELDIG LANG TITTEL SOM GÅR OVER TO LINJER, NEI KANSKJE TRE!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-2.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-2.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-2"
+                    },
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "INTERESSANT BOK FRA THELLE.",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-3.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-3.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-3"
+                    },
+                    {
+                      "introduction": "Prosa. Av Kåre Bulie",
+                      "title": "ABSURDE BIBLIOTEKSBIND",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-4.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-4.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-4"
+                    },
+                    {
+                      "introduction": "Debatt. Av Kåre Bulie",
+                      "title": "PÅ’N IGJEN!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-5.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-5.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-5"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "bottomSeparator": true,
+            "config": null,
+            "editors": [
+              {
+                "alias": "dynamicArticlesRow",
+                "column": 12,
+                "viewModel": {
+                  "articles": [
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "LANG, VELDIG LANG TITTEL SOM GÅR OVER TO LINJER, NEI KANSKJE TRE!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-2.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-2.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-2"
+                    },
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "LANG, VELDIG LANG TITTEL SOM GÅR OVER TO LINJER, NEI KANSKJE TRE!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-3.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-3.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-3"
+                    }
+                  ],
+                  "textOnlyVariant": true
+                }
+              }
+            ]
+          },
+          {
+            "bottomSeparator": false,
+            "config": null,
+            "editors": [
+              {
+                "alias": "dynamicArticlesRow",
+                "column": 12,
+                "viewModel": {
+                  "articles": [
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "LANG, VELDIG LANG TITTEL SOM GÅR OVER TO LINJER, NEI KANSKJE TRE!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-2.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-2.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-2"
+                    },
+                    {
+                      "introduction": "Essay. Av Kåre Bulie",
+                      "title": "INTERESSANT BOK FRA THELLE.",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-3.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-3.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-3"
+                    },
+                    {
+                      "introduction": "Prosa. Av Kåre Bulie",
+                      "title": "ABSURDE BIBLIOTEKSBIND",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-4.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-4.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-4"
+                    },
+                    {
+                      "introduction": "Debatt. Av Kåre Bulie",
+                      "title": "PÅ’N IGJEN!",
+                      "description": "Lenge har vi trodd at Knut Hamsun var død og begravet, men stadig vekk dukker han opp igjen i den norske offentligheten. Ettersom han later til å ha vanskelig for å la livet leve i fred, beslutter vi å for en gangs skyld komme ham i møte: Vinduetintervjuer Knut Hamsun om Hamsun-debatten.",
+                      "image": {
+                        "path": "/img/article-demo-5.jpg",
+                        "altText": "Forfalsket fotografi av Kåre Bulie",
+                        "title": "Forfalsket fotografi av Kåre Bulie",
+                        "focalPoint": {
+                          "left": 0,
+                          "top": 0,
+                          "center": "0,0"
+                        },
+                        "url": "/img/article-demo-5.jpg",
+                        "isBigger": true
+                      },
+                      "link": "/article-demo-5"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
