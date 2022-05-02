@@ -1,0 +1,150 @@
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  color: $color-bg;
+  background-color: $color-primary;
+}
+
+html {
+  font-size: 16px;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  @include font;
+  overflow-x: hidden;
+  line-height: 1.42;
+  color: $color-text;
+  background-color: $color-bg;
+  -webkit-font-smoothing: antialiased;
+}
+
+#__next {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+footer {
+  width: 100%;
+  margin-top: auto;
+}
+
+.container {
+  padding: 0 $container-padding;
+}
+
+a,
+button,
+input,
+textarea {
+  outline: none;
+}
+
+a {
+  word-break: break-word;
+  text-decoration: none;
+  color: $color-text;
+}
+
+blockquote,
+button,
+fieldset,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+p,
+ul {
+  margin: 0;
+  word-break: break-word;
+}
+
+button,
+fieldset,
+ol,
+ul {
+  padding: 0;
+}
+
+button,
+fieldset,
+input,
+textarea {
+  border: none;
+}
+
+button,
+input,
+textarea {
+  background: none;
+}
+
+button,
+label {
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+input,
+textarea {
+  min-width: 0;
+}
+
+input {
+  &[type='checkbox'],
+  &[type='radio'] {
+    cursor: pointer;
+  }
+
+  &[type='number'] {
+    appearance: textfield;
+
+    &::-webkit-inner-spin-button,
+    &::-webkit-outer-spin-button {
+      appearance: none;
+      margin: 0;
+    }
+  }
+
+  &[type='search'] {
+    &::-ms-clear,
+    &::-ms-reveal,
+    &::-webkit-search-cancel-button,
+    &::-webkit-search-decoration,
+    &::-webkit-search-results-button,
+    &::-webkit-search-results-decoration {
+      display: none;
+      width: 0;
+      height: 0;
+    }
+  }
+}
+
+li {
+  list-style: none;
+}
+
+textarea {
+  resize: vertical;
+}

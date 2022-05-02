@@ -1,0 +1,61 @@
+{
+  "page": {
+    "title": "Create Next App eXtended"
+  },
+  "welcome": {
+    "title": {
+      "text": "Welcome to <a href='https://nextjs.org'>Next.js!</a>",
+      "tag": "h1"
+    },
+    "subtitle": {
+      "text": "Get started on the Next Big Thing using Create Next App eXtended!",
+      "tag": "p"
+    },
+    "columns": [
+      {
+        "key": "gridDocumentation",
+        "href": "https://nextjs.org/docs",
+        "title": {
+          "text": "Documentation",
+          "tag": "h3"
+        },
+        "desc": "<p>Find in-depth information about Next.js features and API.</p>"
+      },
+      {
+        "key": "gridLearn",
+        "href": "https://nextjs.org/learn",
+        "title": {
+          "text": "Learn",
+          "tag": "h3"
+        },
+        "desc": "<p>Learn about Next.js in an interactive course with quizzes!</p>"
+      },
+      {
+        "key": "gridExamples",
+        "href": "https://github.com/vercel/next.js/tree/master/examples",
+        "title": {
+          "text": "Examples",
+          "tag": "h3"
+        },
+        "desc": "<p>Discover and deploy boilerplate example Next.js projects.</p>"
+      },
+      {
+        "key": "gridDeploy",
+        "href": "https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app",
+        "title": {
+          "text": "Deploy",
+          "tag": "h3"
+        },
+        "desc": "<p>Instantly deploy your Next.js site to a public URL with Vercel.</p>"
+      }
+    ]
+  },
+  "footer": {
+    "href": "https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app",
+    "text": "Powered by",
+    "logo": {
+      "src": "/assets/images/vercel.svg",
+      "alt": "Vercel logo"
+    }
+  }
+}
